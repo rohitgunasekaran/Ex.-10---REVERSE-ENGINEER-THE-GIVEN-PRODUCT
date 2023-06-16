@@ -28,15 +28,19 @@
   ###   ●	Load your filament into the required extruder as per the requirement.
   ###   ●	Wait until the nozzle & bed plate comes into the required temperature.
   ###   ●	Close the doors of the 3d printer.
-  ###   ●	Open the file from the USB storage and select the Print option.
+   ##   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![penstand](https://github.com/abinayasangeetha/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119393675/9a27084e-41c1-496a-ac5d-eeed7c4e3969)
+
 
 ### Output:
+![PENSTAND](https://github.com/abinayasangeetha/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119393675/8071a6ef-a7e6-4bce-9fd5-5f24e7c5ec80)
 
 
-### Name:
-### Register Number:
+
+### Name: ROHIT G
+### Register Number: 212222240083
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
